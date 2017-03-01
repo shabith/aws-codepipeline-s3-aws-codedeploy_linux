@@ -4,5 +4,9 @@
   "description": "demo sample",
   "main": "index.js",
   "author": "Shabith Ishan",
-  "license": "MIT"
+  "license": "MIT",
+   "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js"
 }
