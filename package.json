@@ -8,5 +8,8 @@
    "scripts": {
     "start": "node index.js"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
