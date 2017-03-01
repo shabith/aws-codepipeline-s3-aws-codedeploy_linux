@@ -1,0 +1,8 @@
+{
+  "name": "codepipeline-sample",
+  "version": "1.0.0",
+  "description": "demo sample",
+  "main": "index.js",
+  "author": "Shabith Ishan",
+  "license": "MIT"
+}
